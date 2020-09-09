@@ -1,11 +1,6 @@
-@font-face {
-  font-family: raimond;
-  src: Raimond FREE.otf;
-}
-
 h1 {
   font-size: 3em; /* 1em = 12pt = 16px */
-  font-family: raimond;
+  font-family: Raimond FREE.otf;
   color: #747e63
 }
 
